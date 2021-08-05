@@ -4,7 +4,7 @@
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 10px;
     /*    height: 800px;*/
-    width: 450px;
+    width: 400px;
     height: 90vh;
 }
 
